@@ -1,4 +1,4 @@
-# Life visualizer
+# Life visualiser
 # By Amer
 
 from datetime import datetime, timedelta
